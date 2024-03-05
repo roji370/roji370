@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/roji370](https://github.com/roji370)
+- 👨‍💻 All of my projects are available at [https://github.com/roji370?tab=repositories](https://github.com/roji370?tab=repositories)
 
 - 📫 How to reach me **rojinroy370@gmail.com**
 
