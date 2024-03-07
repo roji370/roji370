@@ -13,6 +13,12 @@
 
 - 🙂 People close to me call me **Roji.**
 
+<div align="left">
+<h3 align="left">Check out my:</h3>
+<a href="https://rojin-roy.netlify.app" target=""_blank>  
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rojin roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rojin roy" height="30" width="40" /></a>
