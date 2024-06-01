@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cs,cpp,figma,flask,flutter,mongodb,mysql,php,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cs,cpp,figma,flask,flutter,mongodb,mysql,php,netlify,react,firebase)](https://skillicons.dev)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roji370&show_icons=true&locale=en&layout=compact" alt="roji370" /></p>
